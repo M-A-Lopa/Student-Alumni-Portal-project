@@ -93,14 +93,15 @@ Home -> Dashboard of student, alumni, admin
   <img width="1852" height="807" alt="student_dashboard_2nd_screenshot" src="https://github.com/user-attachments/assets/7160858e-5407-438e-ba3b-88e71ebc67b4" />
 
 - Alumni
-   <img width="669" height="793" alt="alumni dashboard" src="https://github.com/user-attachments/assets/0ef5af5b-e4f4-42c5-a22a-44436235e5c7" />
+<img width="669" height="793" alt="alumni dashboard" src="https://github.com/user-attachments/assets/0ef5af5b-e4f4-42c5-a22a-44436235e5c7" />
 
 - Admin
-  <img width="966" height="858" alt="admin dashboard" src="https://github.com/user-attachments/assets/b05f8a6d-5e17-4b90-9b2b-e0ffdba77603" />
+ <img width="966" height="858" alt="admin dashboard" src="https://github.com/user-attachments/assets/b05f8a6d-5e17-4b90-9b2b-e0ffdba77603" />
 
 Feed
 <img width="1746" height="869" alt="Community_feed" src="https://github.com/user-attachments/assets/0385e6a0-9098-4f10-8090-ba9042b822b4" />
 <img width="1137" height="283" alt="Specific_post" src="https://github.com/user-attachments/assets/19de3783-ecd5-4851-bb68-d3b35aebe0a0" />
+<img width="1002" height="323" alt="event_on_feed" src="https://github.com/user-attachments/assets/34ea2ad1-023b-4b48-b24d-eacc3c4daf29" />
 
 Create post
 <img width="1819" height="872" alt="Create_new_post" src="https://github.com/user-attachments/assets/fd6d0726-addd-4dac-b633-c7d953cf7fd4" />
