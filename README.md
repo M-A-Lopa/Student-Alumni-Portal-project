@@ -126,7 +126,17 @@ Mentorship
 Find Mentor
 <img width="1844" height="871" alt="find_mentors" src="https://github.com/user-attachments/assets/695a5cde-08db-40fe-8665-dbe5489eff1d" />
 
+## Challenges faced
+- Ensuring referential integrity across multiple relationships.
+- Normalizing tables without losing important associations.
+- Integrating frontend with backend queries.
 
+## Future improvements
+- Adding real-time chat between students and alumni.
+- Notification system for new events and mentorship requests.
+- Enhanced UI with modern frameworks (React/Angular).
+- Email verification and two-step-authentication for safety purpose.
+  
 ## Authors
 
 - [NisatNisa](https://l.facebook.com/l.php?u=https%3A%2F%2Fgithub.com%2FNisatNisa%3Ffbclid%3DIwZXh0bgNhZW0CMTAAYnJpZBExNGlNY1dPNU9wSGRydHQ0aQEeiwws0qoSPoHuL61gjGldBgwmBo6mfdSkaseaDfinKTSDQmg3jHTOBewjTyk_aem_4DQ4iy0PacnlVAKgFx4xcQ&h=AT3M1JPglR0taKoms_r6EWv2yg148rtKZdtFf-nqHHTs7A0WehASJFpkIKEJ_9kDYtCJhyI1IOIH4F4_OwXD_mF_Hj4DlDPXpfEWiCx15SNTxsWON7N3A8_O9EAiHwbJLAwl0bSI5sWRfiz6Wz6cAA)
