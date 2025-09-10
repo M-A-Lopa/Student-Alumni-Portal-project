@@ -2,7 +2,7 @@
 # Overview
 The Student Alumni Portal was created to establish a connection between current students and the university's alumni. The project was inspired by the need to offer a platform through which students can have access to alumni to mentor them, give them career and career guidance, and participate in events.
 
-Through this portal, the user can create an account (student/ alumni), make announcements and events, request mentorship, and handle community interactions by posting and commenting on events or posts posted by others. We were motivated to create a powerful relational database that facilitates such interactions using a normalized format, efficient queries, and minimum redundancy.
+Through this portal, the user can create an account (student/ alumni/admin), make announcements and events, request mentorship, and handle community interactions by posting and commenting on events or posts posted by others. We were motivated to create a powerful relational database that facilitates such interactions using a normalized format, efficient queries, and minimum redundancy.
 
 
 
@@ -66,9 +66,9 @@ Configure Database Connection
           $password = "";
           $dbname = "student_alumni_portal";
      ```
-After that run
 - Place project folder in htdocs/
 
+After that run
 ```bash
   localhost/student_alumni_portal/login.php
 ```
