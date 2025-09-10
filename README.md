@@ -53,11 +53,13 @@ Prerequisites
 - XAMPP or similar local server environment
 - Web browser (Chrome etc.)
 - Code editor (VS Code etc.)
+- 
 Steps
 - Start XAMPP
 - Start Apache and MySQL services
 - Open phpMyAdmin (http://localhost/phpmyadmin)
 - Database Setup : Import the student_alumni_portal.sql in your phpmyadmin
+- 
 Configure Database Connection
 - In DBconnect.php, these credentials are already included to run the project.Still check these credentials.
      ```bash
